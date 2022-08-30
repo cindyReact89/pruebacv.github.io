@@ -1,2 +1,2 @@
 # pruebacv.github.io
-Prueba de CV para Github
+Curriculum Vitae color Purpura
